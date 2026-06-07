@@ -19,7 +19,7 @@ I'm Dhevesh, a Master's student in Robotics and Automation at TU Dortmund Univer
 ## Technical Skills
 
 ### Robotics
-ROS2 • MoveIt • Gazebo • RViz
+ROS2 • MoveIt • Gazebo • RViz • Isaac Sim
 
 ### Programming
 Python • MATLAB • C++
