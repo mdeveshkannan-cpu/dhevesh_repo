@@ -44,8 +44,11 @@ Machine learning based battery degradation forecasting.
 ### TurtleBot Navigation
 LiDAR based mapping and autonomous navigation.
 
+### Several CAD based Projects
+
+
 ## Connect
 
-LinkedIn: [Your LinkedIn]
+LinkedIn: https://www.linkedin.com/in/dheveshkannans/
 
-Email: yourmail@gmail.com
+Email: mdeveshkannan@gmail.com
