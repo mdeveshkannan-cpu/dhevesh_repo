@@ -6,6 +6,13 @@ Robotics &amp; Automation Master's student at TU Dortmund University with experi
 
 I'm Dhevesh, a Master's student in Robotics and Automation at TU Dortmund University.
 
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/dheveshkannans/
+
+Email: mdeveshkannan@gmail.com
+
+
 ## About Me
 
 - 🤖 Robotics & Automation
@@ -47,8 +54,3 @@ LiDAR based mapping and autonomous navigation.
 ### Several CAD based Projects
 
 
-## Connect
-
-LinkedIn: https://www.linkedin.com/in/dheveshkannans/
-
-Email: mdeveshkannan@gmail.com
