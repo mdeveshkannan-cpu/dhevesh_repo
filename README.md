@@ -9,11 +9,12 @@ I'm Dhevesh, a Master's student in Robotics and Automation at TU Dortmund Univer
 ## About Me
 
 - 🤖 Robotics & Automation
+- ⚙️ CAD Design & Simulation
 - 🚗 Automated Driving Systems
 - 🦾 Industrial Robotics
 - 📡 Mobile Robots
 - 🧠 Machine Learning
-- ⚙️ CAD Design & Simulation
+
 
 ## Technical Skills
 
